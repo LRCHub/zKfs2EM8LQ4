@@ -1,0 +1,80 @@
+# i-dle – Girlfriend
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+기억나
+너가 반쯤 미쳤던 Cranky boy
+또 작년에 만난
+몸만 좋던 Mama boy
+그 새낀 말해 뭐해 Ha
+His night is just 5 seconds
+Don’t cry baby
+어차피 뭐 그딴 그 거지 같은 Love
+Yeah, hurry hurry hurry
+잊고 Hang out at the club
+말했잖아 시간만 아깝다고
+But 정성을 담아 꼭 복수해 주자
+Woo woo 불타는 Friday night
+Woo woo
+Cheers to your single life
+우린 끝나지 않아 평생 함께하자
+그만 좀 질질 짜 Girl!
+You got a better
+better girlfriend
+She’s really really like
+a good 애인
+Let’s go chat shh about your ex
+Your girlfriend is better
+than a boyfriend
+Your girlfriend is better
+than a boyfriend
+Your girlfriend is better
+than a boyfriend
+I don’t give a fuck about love
+Cause we are 아이들 Uh
+I don’t give a fuck about love
+Cause we are 아이들 Uh
+I don’t give a fuck about love
+Cause we are 아이들 Uh
+I don’t give a fuck about love
+Cause we are 아이들 Uh
+다시 만나잔 연락은 양심도 없지
+그 새낀 참 뻔뻔해
+설마 만날 건 아니지?
+갈 거면 너 나랑 절교해
+답장은 Just
+쓰레긴 우리의 Out of 안중
+아주 Lovely하게 Cussing
+He deserves it, it’s too lucky
+Look at you baby 이것 좀 봐봐
+주옥같이 예쁘잖아
+야 바보야 천 배는 아까워 정말
+어디든 Pop the flash
+Let’s upload it to Instagram
+맘껏 웃어봐 자 복수해 주자
+Woo woo 불타는 Friday night
+Woo woo
+Cheers to your single life
+우린 끝나지 않아 평생 함께하자
+그만 좀 질질 짜 Girl!
+You got a better
+better girlfriend
+She’s really really like
+a good 애인
+Let’s go chat shh about your ex
+Your girlfriend is better
+than a boyfriend
+Your girlfriend is better
+than a boyfriend
+Your girlfriend is better
+than a boyfriend
+I don’t give a fuck about love
+Cause we are 아이들 Uh
+I don’t give a fuck about love
+Cause we are 아이들 Uh
+I don’t give a fuck about love
+Cause we are 아이들 Uh
+I don’t give a fuck about love
+Cause we are 아이들 Uh
+```
