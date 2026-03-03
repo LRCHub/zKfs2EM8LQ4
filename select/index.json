@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Girlfriend",
+  "base_artist": "i-dle",
+  "createdAt": "2026-03-03T16:13:59.242901Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brand New Girlfriend",
+      "artist": "Steve Holy",
+      "has_synced": true,
+      "path": "select/01_Brand_New_Girlfriend_Steve_Holy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Girlfriend",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/02_Girlfriend_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Girlfriend (Dr. Luke remix) (feat. Lil Mama)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/03_Girlfriend_(Dr._Luke_remix)_(feat._Lil_Mama)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Girlfriend [Dr. Luke Remix Feat. Lil Mama]",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/04_Girlfriend_[Dr._Luke_Remix_Feat._Lil_Mama]_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Don't Wanna Be My Girlfriend, Phoebe",
+      "artist": "My Little Airport",
+      "has_synced": true,
+      "path": "select/05_You_Don't_Wanna_Be_My_Girlfriend,_Phoebe_My_Little_Airport.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "you don't wanna be my girlfriend, phoebe",
+      "artist": "My Little Airport",
+      "has_synced": false,
+      "path": "select/06_you_don't_wanna_be_my_girlfriend,_phoebe_My_Little_Airport.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "여자친구 (Girlfriend)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/07_여자친구_(Girlfriend)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Girlfriend",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/08_Girlfriend_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bender++Girlfriend",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/09_Bender++Girlfriend_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Girl Isn't My Girlfriend",
+      "artist": "Little Man Tate",
+      "has_synced": false,
+      "path": "select/10_This_Girl_Isn't_My_Girlfriend_Little_Man_Tate.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Girlfriend",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/11_Girlfriend_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My First Girlfriend",
+      "artist": "MattyB",
+      "has_synced": false,
+      "path": "select/12_My_First_Girlfriend_MattyB.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Upset My Girlfriend",
+      "artist": "Metronomy",
+      "has_synced": true,
+      "path": "select/13_Upset_My_Girlfriend_Metronomy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ex-Girlfriend",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/14_Ex-Girlfriend_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hex Girlfriend",
+      "artist": "Neon Indian",
+      "has_synced": false,
+      "path": "select/15_Hex_Girlfriend_Neon_Indian.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "(I'm in Love with Your) Girlfriend",
+      "artist": "Citizen's",
+      "has_synced": true,
+      "path": "select/16_(I'm_in_Love_with_Your)_Girlfriend_Citizen's.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mama's Got A Girlfriend Now",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/17_Mama's_Got_A_Girlfriend_Now_Ben_Harper.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Girlfriend",
+      "artist": "i-dle",
+      "has_synced": false,
+      "path": "select/pl_01_Girlfriend_i-dle.txt"
+    }
+  ]
+}
